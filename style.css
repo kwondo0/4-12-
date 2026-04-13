@@ -6,6 +6,8 @@ body {
 .container {
   width: 800px;
   margin: 50px auto;
+  display: flex;
+  gap: 30px;
 }
 
 .profile {
